@@ -1,4 +1,4 @@
-Arduino UNO compatiable Motor Shield R3 29250 - L298P DC Motor Driver Module 2A H-Bridge 2 way - Similar to DFRobot Motor Shield
+Arduino UNO compatiable Motor Shield R3 29250 DEEK-ROBOT - L298P DC Motor Driver Module 2A H-Bridge 2 way - Similar to DFRobot Motor Shield
 
 The Motor Shield is based on the L298, which is a dual full-bridge driver designed to drive inductive loads such as relays, solenoids, DC and stepping motors. It lets you drive two DC motors with your board, controlling the speed and direction of each one independently. You can also measure the motor current absorption of each motor, among other features.
 
